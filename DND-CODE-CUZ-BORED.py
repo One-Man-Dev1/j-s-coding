@@ -1,7 +1,6 @@
 # wassup ya little shit. you a nerd if u seeing this so enjoy.
 # but before yall start complaining, this breaks the fourth wall a bit
-# please do NOT use this without crediting, take inspiration ig, if u new. use the ifs to learn. okay?
-# this is shitty code so idk, use it without crediting (forget the 3rd line)
+# its python btw
 
 
 print('Attck has  CHANCE of dropping a rare item.') # guide

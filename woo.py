@@ -7,6 +7,7 @@ pro = input("do you wish to procees?: ")
 if pro == "no":
     print("we dont need u. GET OUTTTTTTTTTTTTTT")
     time.sleep(5)
+    exit()
 if pro == "yes":
     print("we need your ssn")
     
@@ -27,6 +28,8 @@ confirm = input("is this correct?: ")
 if confirm == "no":
     print("aight. well do this program again")
     time.sleep(5)
+    exit()
 if confirm == "yes":
     print(" u been haked")
     time.sleep(5)
+    exit()
